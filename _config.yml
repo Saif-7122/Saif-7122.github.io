@@ -1,0 +1,13 @@
+title: Gen AI and ML
+description: My journey into GenAI and ML tools.
+remote_theme: janczizikow/sleek
+lang: en
+author:
+  name: Saif
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-paginate
+paginate: 5
