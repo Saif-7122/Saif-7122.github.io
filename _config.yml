@@ -1,6 +1,6 @@
 title: Gen AI and ML
 description: My journey through generative AI tools and ideas.
-remote_theme: ChesterTaylor/tale
+theme: jekyll-theme-tale
 lang: en
 author:
   name: Saif
