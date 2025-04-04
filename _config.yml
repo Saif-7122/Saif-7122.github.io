@@ -1,13 +1,19 @@
 title: Gen AI and ML
-description: My journey into GenAI and ML tools.
-remote_theme: janczizikow/sleek
+description: My journey through generative AI tools and ideas.
+remote_theme: ChesterTaylor/tale
 lang: en
 author:
   name: Saif
 
+
+# Build settings
 markdown: kramdown
 highlighter: rouge
 
+# Optional extras
+paginate: 5
+paginate_path: "/page:num"
+permalink: pretty
+
 plugins:
   - jekyll-paginate
-paginate: 5
