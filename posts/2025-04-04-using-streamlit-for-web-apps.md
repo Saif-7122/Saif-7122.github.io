@@ -25,7 +25,7 @@ st.title("Hello Streamlit")
 
 output:
 
-![Output Screenshot](../images/1.jpg)
+![Output Screenshot](../images/1.png)
 
 ## 💬 Displaying Text
 ```python
@@ -35,7 +35,7 @@ st.write("This is simple text")
 
 output:
 
-![Output Screenshot](../images/2.jpg)
+![Output Screenshot](../images/2.png)
 
 ## 📊 Creating and Showing a DataFrame
 ```python
@@ -49,9 +49,11 @@ st.write(df)
 ```
 ➡️ We create a simple pandas DataFrame and display it using st.write(). Streamlit renders it as an interactive table.
 
+
 output:
 
-![Output Screenshot](../images/3.jpg)
+![Output Screenshot](../images/3.png)
+
 
 ##📈 Creating a Line Chart
 ```python
@@ -66,7 +68,13 @@ st.line_chart(chart_data)
 
 output:
 
-![Output Screenshot](../images/4.jpg)
+![Output Screenshot](../images/4.png)
+
+## To run your streamlit code :
+ Go to terminal and type : streamlit run <file_name.py>
+
+![Output Screenshot](../images/5.png)
+
 
 (more topics coming soon! 🧩)
 
