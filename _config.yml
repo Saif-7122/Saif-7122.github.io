@@ -9,11 +9,6 @@ author:
 markdown: kramdown
 highlighter: rouge
 
-# Optional extras
-paginate: 5
-paginate_path: "/page:num"
-permalink: pretty
-
 plugins:
   - jekyll-paginate
   - jekyll-remote-theme  # This is needed for remote themes
