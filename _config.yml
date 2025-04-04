@@ -1,10 +1,9 @@
 title: Gen AI and ML
 description: My journey through generative AI tools and ideas.
-theme: none
+remote_theme: chesterhow/tale  # Use remote_theme instead of theme
 lang: en
 author:
   name: Saif
-
 
 # Build settings
 markdown: kramdown
@@ -17,3 +16,4 @@ permalink: pretty
 
 plugins:
   - jekyll-paginate
+  - jekyll-remote-theme  # This is needed for remote themes
